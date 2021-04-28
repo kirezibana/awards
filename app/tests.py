@@ -4,7 +4,7 @@ from .models import *
 
 class TestProfile(TestCase):
     def setUp(self):
-        self.user = User(id=1, username='tharcissie', password='12345678')
+        self.user = User(id=1, username='kirezi', password='12345678')
         self.user.save()
 
     def test_instance(self):
@@ -19,7 +19,7 @@ class TestProfile(TestCase):
 
 class ProjectTest(TestCase):
     def setUp(self):
-        self.user = User.objects.create(id=1, username='tharcissie')
+        self.user = User.objects.create(id=1, username='kirezi')
         self.project = Project.objects.create(id=1, project_name='name', details='details',
                                         user=self.user, link='http://link.coml')
 
@@ -49,7 +49,7 @@ class ProjectTest(TestCase):
 
 class RatingTest(TestCase):
     def setUp(self):
-        self.user = User.objects.create(id=1, username='tharcissie')
+        self.user = User.objects.create(id=1, username='kirezi')
         self.project = Project.objects.create(id=1, project_name='name', details='details',
                                         user=self.user, link='http://link.coml')
         self.rating = Rating.objects.create(id=1, design=6, usability=7, content=9, user=self.user, project=self.project)
