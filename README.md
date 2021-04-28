@@ -31,7 +31,7 @@ These criteria can be reviewed on a scale of 1-10 and the average score is taken
  Heroku 
  
 ## Support and contact details
-contact me: hortensebana32@gmail.com
+contact me: hortensebana32@gmail.com or 
 
 ### License
 
