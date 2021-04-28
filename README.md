@@ -14,6 +14,8 @@ As a user, I would like to:
 View posted projects and their details
 Post a project to be rated/reviewed
 Rate/ review other users' projects
+Search for projects 
+
 
 
 ## Author
