@@ -13,6 +13,8 @@ These criteria can be reviewed on a scale of 1-10 and the average score is taken
 As a user, I would like to:
 View posted projects and their details
 Post a project to be rated/reviewed
+Rate/ review other users' projects
+
 
 ## Author
 KIREZI BANA HORTENSE
