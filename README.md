@@ -11,7 +11,7 @@ These criteria can be reviewed on a scale of 1-10 and the average score is taken
 
 ## User stories
 As a user, I would like to:
-
+View posted projects and their details
 
 
 ## Author
