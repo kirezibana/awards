@@ -7,6 +7,8 @@ A project can be rated based on 3 different criteria:
 2.Usability
 3.Content
 
+These criteria can be reviewed on a scale of 1-10 and the average score is taken.
+
 ## Author
 KIREZI BANA HORTENSE
 
