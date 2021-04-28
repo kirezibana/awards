@@ -5,7 +5,7 @@ This an app that enables to see the different projects posted by users. You can 
 A project can be rated based on 3 different criteria:
 Design
 Usability
-
+Content
 
 ## Author
 KIREZI BANA HORTENSE
