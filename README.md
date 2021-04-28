@@ -27,10 +27,10 @@ These criteria can be reviewed on a scale of 1-10 and the average score is taken
  * Google fonts
  * bootstrap4
 
- 
+
  
 ## Support and contact details
-If anyone need support concerning the project or anything related, just reach out to hortensebana32@gmail.com
+contact me: hortensebana32@gmail.com
 
 ### License
 
