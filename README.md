@@ -1,6 +1,9 @@
 # AWWARD PROJECTAPP
 This an app that enables to see the different projects posted by users. You can view and rate them.It will also allow a user to post a project he/she has created and get it reviewed by his/her peers.
 
+## Author
+KIREZI BANA HORTENSE
+
 ## Ratings
 A project can be rated based on 3 different criteria:
 1.Design
@@ -18,14 +21,13 @@ These criteria can be reviewed on a scale of 1-10 and the average score is taken
 6.View projects overall score
 7.View my profile page
 
-## Author
-KIREZI BANA HORTENSE
-
 ## Technologies Used
 
  * Django-python
  * Google fonts
  * bootstrap4
+
+ 
  
 ## Support and contact details
 If anyone need support concerning the project or anything related, just reach out to hortensebana32@gmail.com
