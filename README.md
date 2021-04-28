@@ -1,5 +1,5 @@
 # AWWARD PROJECTAPP
-This an app that enables to see the different projects posted by users. You can view and rate them. Moreover, you can post also your projects to be viewed and rated.
+This an app that enables to see the different projects posted by users. You can view and rate them.  will allow a user to post a project he/she has created and get it reviewed by his/her peers.
 
 ## Author
 KIREZI BANA HORTENSE
@@ -32,4 +32,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, 
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-Copyright (c) 2021 ProjectApp
+Copyright (c) 2021 AWWARD PROJECTAPP
