@@ -27,7 +27,8 @@ These criteria can be reviewed on a scale of 1-10 and the average score is taken
  * Google fonts
  * bootstrap4
 
-
+ ## Deployment
+ Heroku 
  
 ## Support and contact details
 contact me: hortensebana32@gmail.com
