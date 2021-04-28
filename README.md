@@ -10,13 +10,13 @@ A project can be rated based on 3 different criteria:
 These criteria can be reviewed on a scale of 1-10 and the average score is taken.
 
 ## User stories
-As a user, I would like to:
-View posted projects and their details
-Post a project to be rated/reviewed
-Rate/ review other users' projects
-Search for projects 
-View projects overall score
-View my profile page
+1.As a user, I would like to:
+2.View posted projects and their details
+3.Post a project to be rated/reviewed
+4.Rate/ review other users' projects
+5.Search for projects 
+6.View projects overall score
+7.View my profile page
 
 ## Author
 KIREZI BANA HORTENSE
