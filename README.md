@@ -2,7 +2,7 @@
 This an app that enables to see the different projects posted by users. You can view and rate them.It will also allow a user to post a project he/she has created and get it reviewed by his/her peers.
 
 # Ratings
-A project can be rated based on 3 different criteria
+A project can be rated based on 3 different criteria:
 
 
 ## Author
