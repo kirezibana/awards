@@ -11,7 +11,7 @@ KIREZI BANA HORTENSE
  * bootstrap4
  
 ## Support and contact details
-If anyone need support concerning the project or anything related, just reach out to tharcissieidufashe@gmail.com
+If anyone need support concerning the project or anything related, just reach out to hortensebana32@gmail.com
 
 ### License
 
