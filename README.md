@@ -2,7 +2,7 @@
 This an app that enables to see the different projects posted by users. You can view and rate them. Moreover, you can post also your projects to be viewed and rated.
 
 ## Author
-KIREZI HORTENSE
+KIREZI BANA HORTENSE
 
 ## Technologies Used
 
